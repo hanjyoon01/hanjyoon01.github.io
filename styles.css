@@ -5,3 +5,9 @@
  .github-link{color:var(--ink);font:600 11px 'DM Mono';text-decoration:none;border-bottom:1px solid var(--ink);padding-bottom:2px;margin-left:auto}.github-link:hover{color:var(--orange);border-color:var(--orange)}
  .project-ieum{background:#dce8df !important;border:1px solid #b5cdbb}.project-ieum .tag{background:#b9d8c1}.project-footer{column-gap:32px}
  :root{--ink:#1b4965;--cream:#cae9ff;--lime:#bee9e8;--orange:#62b6cb;--muted:#5fa8d3;--line:#bee9e8}.project-wms{background:#cae9ff}.project-ntropy{background:#62b6cb}.project-ieum{background:#bee9e8 !important;border-color:#5fa8d3}.about{background:#1b4965}.marquee{background:#bee9e8}
+ :root{--ink:#0a0908;--cream:#eae0d5;--lime:#c6ac8f;--orange:#5e503f;--muted:#22333b;--line:#c6ac8f}.project-wms{background:#c6ac8f;border:1px solid #5e503f}.project-ntropy{background:#22333b;color:#eae0d5;border:1px solid #0a0908}.project-ieum{background:#5e503f !important;color:#eae0d5;border-color:#0a0908}.project-ntropy .project-desc,.project-ieum .project-desc,.project-ntropy .project-result p:last-child,.project-ieum .project-result p:last-child{color:#eae0d5}.project-ntropy .chips span,.project-ieum .chips span{border-color:rgba(234,224,213,.45)}.section{border-top:1px solid var(--line)}.project-card{border-bottom:1px solid rgba(10,9,8,.35)}.about{background:#0a0908}.marquee{background:#c6ac8f}
+ .hero-role{font:600 12px 'DM Mono',monospace;letter-spacing:2px;color:var(--muted);margin:-14px 0 28px}
+ .hero h1{color:#5e503f}.credential-grid{grid-template-columns:repeat(2,1fr)}
+ .nav{height:72px}.hero{min-height:560px}.hero-art{height:360px}
+ .project-ieum .tag{background:#eae0d5;color:#5e503f}
+ .about h2 em{color:#c6ac8f}
